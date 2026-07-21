@@ -1,0 +1,43 @@
+{
+  "S15HD0917N41": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Michael Bartel, Alte Landwehr 2B, 38114 Braunschweig-Lehndorf-Watenbütte, Deutschland",
+    "price": "11.000 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: VRSCDX Night Rod Special <br> Fahrgestelnummer: 5HD1HHHCXFC803231 <br> Erstzulassung: 07/2015 <br> TÜV: 07/2027 <br> KM laut Vorbesitzer: 3.874 km <br>Leistung: 90 kW (122 PS) <br> Fahrzeug ist makellos. <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Bezitser 2 <br> Viele Extras <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Michael Bartel<br> Alte Landwehr 2B<br> 38114 Braunschweig-Lehndorf-Watenbütte<br> Deutschland<br>Telefon: +49 1716306625",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10-06-2026",
+    "deliveryDate": "19-06-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Alte Landwehr 2B",
+      "postal_code": "38114",
+      "city": "Braunschweig-Lehndorf-Watenbütte",
+      "country": "Deutschland"
+    }
+  }
+}
